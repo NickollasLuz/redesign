@@ -1,0 +1,43 @@
+Plano 1: Básico
+Preço: R$ 499,00 (pagamento único)
+Vantagens:
+
+Criação de um site institucional simples (até 5 páginas)
+Design responsivo (adaptado para dispositivos móveis)
+Integração com redes sociais
+Formulário de contato básico
+Suporte técnico por 1 mês
+Domínio grátis por 1 ano
+Hospedagem básica incluída (até 1 GB de armazenamento)
+Ideal para: Pequenas empresas ou profissionais que precisam de uma presença online simples e funcional.
+
+Plano 2: Profissional
+Preço: R$ 1.499,00 (pagamento único)
+Vantagens:
+
+Criação de um site com até 10 páginas (institucional ou portfólio)
+Design personalizado e responsivo
+SEO básico (otimização para motores de busca)
+Formulários avançados de contato e orçamento
+Integração com Google Analytics
+Suporte técnico por 3 meses
+Domínio grátis por 1 ano
+Hospedagem incluída (até 5 GB de armazenamento)
+Sistema básico de gestão de conteúdo (CMS), permitindo atualizações simples pelo cliente
+Ideal para: Profissionais liberais, pequenas e médias empresas que desejam um site mais elaborado e com melhor presença no Google.
+
+Plano 3: Avançado
+Preço: R$ 2.999,00 (pagamento único ou parcelado)
+Vantagens:
+
+Criação de um site completo ou loja virtual (com até 20 páginas ou até 100 produtos)
+Design totalmente customizado
+SEO avançado (estratégias para posicionamento em buscadores)
+Integração com ferramentas de automação de marketing (e-mails, CRM)
+Configuração de loja virtual (com gateway de pagamento, cálculo de frete e inventário)
+Treinamento para gerenciamento do site
+Suporte técnico por 6 meses
+Domínio e hospedagem premium grátis por 1 ano (até 10 GB de armazenamento)
+Backup automático semanal
+Integração com plataformas de redes sociais e e-mail marketing
+Ideal para: Empresas que precisam de um site de alta performance ou e-commerce, com funcionalidades avançadas e suporte prolongado.

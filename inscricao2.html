@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESTAGIO 2</title>
+    <link rel="stylesheet" href="inc2.css">
+</head>
+<body>
+    
+
+    
+
+
+    <div class="palheta">
+
+        <h1 style="color: rgb(0, 0, 0);">QUAIS AS CORES TEMAS DO SEU SITE?</h1>
+
+        <div class="container"> 
+            <div class="slide">
+                <div class="cor" id="cor1"></div>
+                <div class="cor" id="cor2"></div>
+                <div class="cor" id="cor3"></div>
+                <div class="cor"  id="cor4"></div>
+                <div class="cor" id="cor5"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor6"></div>
+                <div class="cor" id="cor7"></div>
+                <div class="cor" id="cor8"></div>
+                <div class="cor"  id="cor9"></div>
+                <div class="cor" id="cor10"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor11"></div>
+                <div class="cor" id="cor12"></div>
+                <div class="cor" id="cor13"></div>
+                <div class="cor"  id="cor14"></div>
+                <div class="cor" id="cor15"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor16"></div>
+                <div class="cor" id="cor17"></div>
+                <div class="cor" id="cor18"></div>
+                <div class="cor"  id="cor19"></div>
+                <div class="cor" id="cor20"></div>
+            </div>
+            <div class="slide">
+                <div class="cor" id="cor21"></div>
+                <div class="cor" id="cor22"></div>
+                <div class="cor" id="cor23"></div>
+                <div class="cor"  id="cor24"></div>
+                <div class="cor" id="cor25"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor26"></div>
+                <div class="cor" id="cor27"></div>
+                <div class="cor" id="cor28"></div>
+                <div class="cor"  id="cor29"></div>
+                <div class="cor" id="cor30"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor31"></div>
+                <div class="cor" id="cor32"></div>
+                <div class="cor" id="cor33"></div>
+                <div class="cor"  id="cor34"></div>
+                <div class="cor" id="cor35"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor36"></div>
+                <div class="cor" id="cor37"></div>
+                <div class="cor" id="cor38"></div>
+                <div class="cor"  id="cor39"></div>
+                <div class="cor" id="cor40"></div>
+            </div>
+
+            <div class="slide">
+                <div class="cor" id="cor41"></div>
+                <div class="cor" id="cor42"></div>
+                <div class="cor" id="cor43"></div>
+                <div class="cor"  id="cor44"></div>
+                <div class="cor" id="cor45"></div>
+            </div>
+
+        
+        </div>
+
+   
+
+    </div>
+
+
+
+
+
+         <div class="form-page">
+
+            
+<div class="titulo">
+<h1>INFORMACÕES BASICAS</h1>
+</div>
+
+
+
+
+
+
+            <div class="container3">
+<h1>paginas do site</h1>
+   <select name="" id="select">
+ <option value="1">1 pagina</option>
+ <option value="2">2 paginas</option>
+ <option value="3">3 paginas</option>
+ <option value="4">4 paginas</option>
+ <option value="5">5 paginas</option>
+ <option value="6">6 paginas</option>
+
+
+   </select>
+</div>
+
+
+
+        <div class="todo_wrapper">
+
+            
+            <div class="todo_app">
+                <h1><i class="far fa-edit"></i>ADICIONAR TITULOS DAS PAGINAS</h1>
+                <div class="row">
+                    <input type="text" id="input_box" placeholder="Adicione o nome ou titulo de cada uma das paginas">
+                    <button onclick="addTask()">Add</button>
+                </div>
+                <ul id="list_container"></ul>
+            </div>
+        </div>
+        <a  href="" class="btn-enviar">PROXIMO</a>
+
+    </div>
+
+   
+
+ 
+
+
+
+    </div>
+    
+    
+        <script>
+            
+    
+            const inputBox = document.getElementById("input_box");
+            const listContainer = document.getElementById("list_container");
+    
+    
+            function addTask() {
+                if (inputBox.value === "") {
+                    alert("You must write something!");
+                }
+                else {
+                    let newTask = document.createElement("li");
+                    newTask.innerHTML = inputBox.value;
+                    listContainer.appendChild(newTask);
+                    let span = document.createElement("span");
+                    span.innerHTML = "\u00d7";
+                    newTask.appendChild(span);
+                }
+    
+                inputBox.value = "";
+                saveData();
+            }
+    
+    
+            listContainer.addEventListener(
+                "click",
+                function (e) {
+                    if(e.target.tagName === "LI") {
+                        e.target.classList.toggle("checked");
+                        saveData();
+                    }
+                    else if (e.target.tagName === "SPAN") {
+                        e.target.parentElement.remove();
+                        saveData();
+                    }
+                },
+                false
+            );
+    
+    
+        
+            function saveData() {
+                localStorage.setItem("data", listContainer.innerHTML);
+            }
+    
+           
+            function showTask() {
+                listContainer.innerHTML = localStorage.getItem("data");
+            }
+            showTask();
+    
+        </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
