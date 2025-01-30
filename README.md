@@ -22,7 +22,7 @@ Acesse o site do Redesign através do link: https://nickollasluz.github.io/redes
 
 TECNOLOGIAS UTILIZADAS
 
-- HTMl
+- HTML
 - CSS
 - JAVASCRIPT 
 - UI VERSE LIBRABRY 
@@ -98,10 +98,10 @@ Modelo de negócio
 
 
 
-Nome: Renata Alves Costa
-Idade: 34 anos
-Ocupação: Proprietária de uma loja de roupas online
-Localidade: Belo Horizonte, Minas Gerais
+- Nome: Renata Alves Costa
+- Idade: 34 anos
+- Ocupação: Proprietária de uma loja de roupas online
+- Localidade: Belo Horizonte, Minas Gerais
 
 
 
@@ -134,7 +134,7 @@ navegar para seus clientes, mas sem precisar se preocupar com a parte
 técnica de como isso será implementado.
 
 
-Resumo:
+- Resumo:
 Renata é uma empreendedora digital que precisa de um serviço de criação de
 sites prático e eficiente, onde possa entregar suas ideias sem precisar
 entender de design ou programação. O site "Re-Redesign" deve simplificar o
