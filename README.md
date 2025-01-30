@@ -37,19 +37,24 @@ TECNOLOGIAS UTILIZADAS
 
 ## TAREFAS, testes e validações
 
-Estruturação do site HTML (18 09 24)
+- Estruturação do site HTML (18 09 24)
+  
 status: concluido
 
-Implementação de IA para auxilio ao cliente na hora de fazer o pedido
+- Implementação de IA para auxilio ao cliente na hora de fazer o pedido
+  
 status: a implementação não foi possivel 
 
-Estilização e criação de planos para assinatura
+- Estilização e criação de planos para assinatura
+  
 status:concluido
 
-Adicionar interatividade utilizando Javascript. (24 10 2024)
+- Adicionar interatividade utilizando Javascript. (24 10 2024)
+  
 status:concluido
 
-Trabalhar parte visual (CSS)
+- Trabalhar parte visual (CSS)
+  
 status: concluido
 
 
@@ -58,14 +63,14 @@ status: concluido
 ## Atualização e monitoramento
 
 
-Premissas
+- Premissas
 
 Atualizações e manutenções fáceis: Após o site estar pronto, oferecer
 pacotes de manutenção e atualização simples, para que possamos
 garantir que seu site estará sempre moderno e funcional sem precisar
 se preocupar com isso.
 
-Resultado
+- Resultado
 
 
 Mesmo com equipe reduzida o serviço poderá ser oferecido.
