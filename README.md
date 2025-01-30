@@ -149,6 +149,8 @@ suporte técnico contínuo.
 
 
 
+## PROJECT MODEL CANVAS
+![image](https://github.com/user-attachments/assets/384ec7d0-8929-44de-9e0f-6234581b40f5)
 
 
 ## Planilha de Estimativa de tamanho em APF
