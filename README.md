@@ -22,17 +22,17 @@ Acesse o site do Redesign através do link: https://nickollasluz.github.io/redes
 
 TECNOLOGIAS UTILIZADAS
 
-HTML - ESTRUTURA DA PAGINA
-CSS - ESTILIZAÇÃO DA PAGINA
-JAVASCRIPT - INTERATIVIDADE E BACKEND
-UI VERSE LIBRABRY 
+- HTMl
+- CSS
+- JAVASCRIPT 
+- UI VERSE LIBRABRY 
 
 
 
 ## Integrated Development Environment
 
-VISUAL STUDIO CODE
-SUBLIME TEXT
+- VISUAL STUDIO CODE
+- SUBLIME TEXT
 
 
 ## TAREFAS, testes e validações
