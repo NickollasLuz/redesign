@@ -1,3 +1,23 @@
+
+# OQUE É O REDESGIN
+
+O Redesign é uma plataforma criada para simplificar o desenvolvimento de sites para pessoas sem conhecimento técnico. Através dela, os usuários contam com a expertise de desenvolvedores profissionais, garantindo uma presença digital de forma fácil e eficiente.
+
+## Recursos
+
+ - Desenvolvimento de sites personalizados
+
+ - Suporte especializado
+
+ - Facilidade na contratação do serviço
+
+ - Soluções otimizadas para diversos nichos
+
+## Como Acessar
+
+Acesse o site do Redesign através do link: https://nickollasluz.github.io/redesign/
+
+
 ## Arquitetura e stack
 
 TECNOLOGIAS UTILIZADAS
@@ -9,21 +29,19 @@ UI VERSE LIBRABRY
 
 
 
-Integrated Development Environment
+## Integrated Development Environment
 
 VISUAL STUDIO CODE
 SUBLIME TEXT
-
-
-
-
-
 
 
 ## TAREFAS, testes e validações
 
 Estruturação do site HTML (18 09 24)
 status: concluido
+
+Implementação de IA para auxilio ao cliente na hora de fazer o pedido
+status: a implementação não foi possivel 
 
 Estilização e criação de planos para assinatura
 status:concluido
@@ -42,20 +60,22 @@ status: concluido
 
 Premissas
 
-• Atualizações e manutenções fáceis: Após o site estar pronto, oferecer
+Atualizações e manutenções fáceis: Após o site estar pronto, oferecer
 pacotes de manutenção e atualização simples, para que possamos
 garantir que seu site estará sempre moderno e funcional sem precisar
 se preocupar com isso.
 
 Resultado
 
-Por conta da equipe de programadores ser reduzida esse serviço não pode ser entregue
+
+Mesmo com equipe reduzida o serviço poderá ser oferecido.
+
 
 
 
 ## Manutenção e utilização
 
-O re-design é um site com facil manuntenção e utilização, oque nos permitiu reduzir custos desnecessarios com desenvolvedores
+O re-design é um site com facil manuntenção, oque nos permitiu reduzir custos desnecessarios com desenvolvedores. A utilização do site é fluida e através dele os clientes podem fazer seus pedidos para nosso time de desenvolvedores
 
 
 
@@ -64,19 +84,13 @@ O re-design é um site com facil manuntenção e utilização, oque nos permitiu
 ![image](https://github.com/user-attachments/assets/c20a530c-4da5-4e13-85ea-16a293e68202)
 
 
--Materiais relacionados ao negócio
-
-
-
-
-
-
-
 Modelo de negócio
 [image](https://github.com/user-attachments/assets/2eb635bf-e7c1-4a0b-8dfe-71ac2e7a8b6e)
 
 
-Personas 
+## Personas 
+
+
 
 
 Nome: Renata Alves Costa
@@ -95,21 +109,6 @@ e-commerce há 3 anos.
 redes sociais e do relacionamento com os clientes. A parte técnica do
 site é algo que prefere delegar, pois não tem conhecimento de design
 ou programação.
-
-• Interesses: Renata gosta de acompanhar as tendências de moda e
-como isso se reflete na aparência e na funcionalidade de sua loja
-virtual. Está sempre buscando formas de melhorar a experiência de
-compra para seus clientes, mas sem saber como aplicar isso
-tecnicamente.
-
-• Hobbies: Nos tempos livres, gosta de navegar por outros sites de moda,
-acompanhar influenciadores e buscar novas ideias para sua loja.
-Também gosta de participar de grupos de empreendedorismo feminino
-nas redes sociais.
-
-• Família: É casada e tem dois filhos pequenos, o que a faz valorizar
-serviços que economizam tempo e são fáceis de usar.
-Pontos de Conflito e Necessidades:
 
 • Dificuldade em criar um site profissional: Renata não tem
 conhecimento técnico em design de sites e quer uma solução que seja
@@ -139,19 +138,17 @@ expectativas visuais e funcionais, economizando seu tempo e oferecendo
 suporte técnico contínuo.
 
 
-Protótipos 
+## Protótipos 
 
 ![image](https://github.com/user-attachments/assets/1c58a840-efd6-4eae-8c3b-0794dbf26aa7)
 
 
-Histórias de usuários.
 
 
 
+## Planilha de Estimativa de tamanho em APF
 
+![image](https://github.com/user-attachments/assets/961e6de2-3b43-4ab9-9ee2-adf923bb1055)
 
-
-
--Planilha de Estimativa de tamanho em APF
 
  
